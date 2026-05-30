@@ -20,7 +20,7 @@ class ArrayPlusOne {
             digits[i]=0;
 
         }
-        int[] newArr=new int[n+1];
+        int[] newArr=new int[n+1]; 
         newArr[0]=1;
        
            for(int i=0;i<n;i++)
